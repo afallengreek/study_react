@@ -1,0 +1,25 @@
+.shutdownAnimation .box {
+    width: 322px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+.shutdownAnimation span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+    opacity:0;
+}
+/*.shutdownAnimation .headPart{*/
+    /*width: 322px;*/
+    /*height: 244px;*/
+/*}*/
+/*.shutdownAnimation .bottomPart{*/
+    /*width: 322px;*/
+    /*height: 101px;*/
+/*}*/

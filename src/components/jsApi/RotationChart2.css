@@ -1,0 +1,80 @@
+.Chart2 body, ul, ol, li, img {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.Chart2 #box{
+    width: 530px;
+    height: 335px;
+    padding: 5px;
+    position: relative;
+    border: 1px solid #ccc;
+    margin: 100px auto 0;
+}
+.Chart2 .ad {
+    width: 520px;
+    height: 280px;
+    /*overflow: hidden;*/
+    position: relative;
+}
+.Chart2 #box img {
+    width: 520px;
+}
+.Chart2 .ad ol {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.Chart2 .ad ol li {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    background: #fff;
+    float: left;
+    margin-right: 10px;
+    cursor: pointer;
+    _display: inline;
+}
+
+.Chart2 .ad ol li.current {
+    background: yellow;
+}
+.Chart2 .ad ul li {
+    float: left;
+}
+.Chart2 .ad ul {
+    position: absolute;
+    top: 0;
+    width: 2940px;
+}
+.Chart2 .ad ul li.current {
+    display: block;
+}
+.Chart2 #focusD {
+    display: none;
+}
+.Chart2 #focusD span {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    margin-top: -20px;
+    background: #000;
+    cursor: pointer;
+    line-height: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: '黑体';
+    font-size: 30px;
+    color: #fff;
+    opacity: 0.3;
+    border: 1px solid #fff;
+}
+
+.Chart2 #focusD #right {
+    right: 5px;
+    left: auto;
+}

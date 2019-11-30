@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>title</title>
+  <script>
+
+    /*
+    *
+    * 完成随机点名项目====晚上再说
+    *
+    * 阻止超链接默认的跳转事件: return false;
+    * 获取元素的方式
+    * 根据id获取元素
+    * document.getElementById("id属性的值");
+    * 根据标签名字获取元素
+    * document.getElementsByTagName("标签的名字");
+    *
+    *
+    * 有的浏览器不支持, IE低版本的浏览器不支持,IE8以下的
+    * 根据name属性的值获取元素
+    * document.getElementsByName("name属性的值");
+    * 根据类样式的名字获取元素
+    * document.getElementsByClassName("类样式的名字");
+    * 根据选择器获取元素
+    * document.querySelector("选择器");返回一个对象
+    * 根绝选择器获取元素
+    * document.querySelectorAll("选择器");返回数组,多个元素组成的
+    *
+    * 设置元素的样式的方式
+    * 对象.style.属性=值;
+    * 对象.className=值;
+    *
+    *
+    * innerText和textContent的兼容问题
+    * 目前的浏览器都支持innerText,应该是属于ie的标准
+    * textContent本身是火狐支持,IE8不支持
+    *
+    * innerText和innerHTML的区别
+    * 都可以设置标签的文本内容,如果要设置标签及内容推荐使用innerHTML
+    * 如果要获取标签中的文本,innerText,也可以使用innerHTML
+    * 如果想要获取的是有标签,也有文本---innerHTML
+    *
+    * 自定义属性的操作
+    * 自定义属性:标签原本没有这个属性,为了存储数据,程序员自己添加的属性
+    * 自定义属性无法直接通过DOM对象的方式获取或者设置
+    * 对象.getAttribute("自定义属性名字");获取自定义属性的值
+    * 对象.setAttribute("属性名字","值");设置自定义属性及值
+    * 移除自定义属性
+    * 对象.removeAttribute("属性的名字");
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    * */
+
+    //设置任意元素的中间的文本内容
+    function setInnnerText(element,text) {
+      if(typeof element.textContent=="undefined"){
+        element.innerText=text;
+      }else{
+        element.textContent=text;
+      }
+    }
+    //获取任意元素的中间的文本内容
+    function getInnerText(element) {
+      if(typeof element.textContent=="undefined"){
+       return element.innerText;
+      }else{
+       return element.textContent;
+      }
+    }
+  </script>
+</head>
+<body>
+
+<p sayHi="您好" id="p1">这是一个p</p>
+<script>
+
+  //自定义属性不能直接通过DOM对象的方式来直接获取该属性的值
+  console.log(document.getElementById("p1").id);
+</script>
+
+<!--<script src="common.js"></script>-->
+<script>
+
+//  document.getElementById("btn").onclick = function () {
+//    this.value = "哈哈";
+//  };
+
+</script>
+</body>
+</html>

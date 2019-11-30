@@ -1,0 +1,35 @@
+.whirlingig .wrap{
+    width:1200px;
+    margin:100px auto;
+}
+.whirlingig .slide {
+    height:500px;
+    position: relative;
+}
+.whirlingig .slide li{
+    position: absolute;
+    left:200px;
+    top:0;
+}
+.whirlingig .slide li img{
+    width:100%;
+}
+.whirlingig .arrow{
+    /*opacity: 0;*/
+}
+.whirlingig .prev,.next{
+    width:76px;
+    height:112px;
+    position: absolute;
+    top:50%;
+    margin-top:-56px;
+    background: url(./images/prev.png) no-repeat;
+    z-index: 99;
+}
+.next{
+    right:0;
+    background-image: url(./images/next.png);
+}
+.arrow{
+    opacity: 0;
+}

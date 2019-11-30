@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #fafafa;
+    height: 3000px;
+}
+li {
+    list-style: none; /*  取消li 的小点 */
+}
+
+.head{
+    height:100px;
+    background-color: #FFFFFF;
+}
+.in{
+    width:1200px;
+    margin: 0 auto;
+    height:100px;
+    line-height: 100px;
+}
+.menu{
+   float: right;
+}
+.menu li{
+    float: left;
+    margin: 0 20px;
+}
+.menu li a{
+    color: #333;
+}
+.menu li a:hover{
+    color: #2288f6;
+}
+.banner1{
+    height: 620px;
+    background: url("../img/banner.jpg")  no-repeat top center;
+}
+/*!* 顶部导航栏开始啦 *!*/
+/*.header {*/
+    /*height: 100px;*/
+    /*background-color: #fff;*/
+/*}*/
+/*.header .inner {*/
+    /*width: 1200px;*/
+    /*height: 100px;*/
+    /*!* background-color: pink; *!*/
+    /*margin: 0 auto;*/
+    /*line-height: 100px;*/
+/*}*/
+.logo {
+    float: left;
+}
+.header .nav {
+    float: right;
+}
+.header .nav li  {
+    float: left;
+    margin: 0 20px;
+}
+.header .nav li a {
+    color: #333;
+    text-decoration: none;
+}
+.header .nav li a:hover {
+    color: #2288f6;
+}
+.header .sevice{
+    width: 1055px;
+    height: 660px;
+    margin: 75px auto 0;
+}
+/* banner STAR */
+.header .banner {
+    height: 620px;
+    background: url(../img/banner.jpg) no-repeat top center;
+}
+/* banner end */
+
+.header .service {
+    /* margin-top: 75px; */
+    width: 1055px;
+    height: 660px;
+    /* background-color: pink; */
+    margin: 75px auto 0;
+}
+.header .se-hd{
+    border-top: 1px solid #ccc;
+    margin: 0 25px;
+}
+.header .se-hd h3{
+    width: 167px;
+    height: 46px;
+    margin: -15px auto 0;
+}
+.header .se-hd p{
+    font-size: 12px;
+    color: #666;
+    line-height: 26px;
+    text-align: center;
+    width: 830px;
+    margin: 15px  auto 0;
+}
+.header .service-hd {
+    border-top: 1px solid #ccc;
+    margin: 0 25px;
+}
+.header .service-hd h3 {
+    width: 167px;
+    height: 46px;
+    margin: -15px auto 0;
+
+}
+.header .service-hd p {
+    font-size: 12px;
+    color: #666;
+    line-height: 26px;
+    text-align: center;
+    width: 830px;
+    margin: 15px  auto 0;
+
+
+}

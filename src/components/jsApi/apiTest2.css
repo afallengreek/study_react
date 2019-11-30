@@ -1,0 +1,44 @@
+.test2Clear{
+    clear: both;
+}
+.apiTest2{
+    background-color: #ccc;
+}
+.test2Body {
+    font-family: "Helvetica", "Arial", serif;
+    color: #333;
+    /*background-color: #ccc;*/
+    margin: 1em 10%;
+}
+.test2h2 {
+    color: #333;
+    background-color: transparent;
+}
+
+.test2Body a {
+    color: #c60;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.test2Body ul{
+    padding: 0;
+}
+.test2Body li{
+    float: left;
+    padding: 1em;
+    list-style: none;
+}
+#imagegallery {
+    list-style: none;
+}
+#imagegallery li {
+    margin: 0px 20px 20px 0px;
+    padding: 0px;
+    display: inline;
+}
+
+#imagegallery li a img {
+    border: 0;
+}

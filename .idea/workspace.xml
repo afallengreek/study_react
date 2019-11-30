@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a8bda32-80dc-42b0-b629-8b8f64a4d38c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/config-overrides.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/breadcrumb/HeadBreadcrumb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/breadcrumb/index.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/advanceFunctionStudy/AdvanceFunctionTest1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/advancedJs/RandomSquare.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/advancedJs/SnakeProject.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/algorithm/ListTest.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/antDesignList/form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/antDesignList/menuSelects.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/antDesignList/menus.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/antDesignList/table.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/components/pageHeader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Affix/normalAffix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/AutoComplete/normalAutoComplete.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Cascader/NormalCascader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Drawer/drawerForm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Dropdown/simpleDropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formActiveValidate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formAddRow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formAdvanceSearch.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formGetFieldValue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formModalLogin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formMyDefine.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formMyDefinedValidate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formMyValidate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formNormalHorizontal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formNormalHorizontalTwo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formNormalLogin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formNormalRergister.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formOthers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formPropDataDrive.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Form/formTimeSubmit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Layout/horizontalMenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Layout/navigationInnerSliderMenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Layout/navigationLayout.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Layout/navigationSliderMenus.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Layout/navigationTopMenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Layout/navigationWithSliderMenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Layout/normalLayout.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Modal/modalConfirm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Modal/modalFoot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Pagination/normalPagination.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Steps/223.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Steps/normalSteps.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Steps/progressSteps.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/columnGroup.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/normalTable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableAddRow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableBigData.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableChild.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableColumnFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableControlSortAndFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableDisabled.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableEditAble.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableFix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableFixTwo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableHeaderAndFooter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableMoreChirdren.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableMoreIntent.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableProperty.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableRowChild.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableRowSpan.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableSelectReload.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableSort.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/breadCrumb/myPhotoBreadCrumb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/breadCrumb/normalBreadCrumb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/breadCrumb/photoBreadCrumb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/checkBox/NormalCheckBox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/css/tableColumnFilter.js.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/ant_designs/studyReact/css/tableControlSortAndFilter.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/classMateRoom/Login/LoginMain.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/common/commonUtil.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/commonsAssemblyStudy/TestBreadcrumb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/es6Study/ArrayStudy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/es6Study/MathStudy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/BookShopPage.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/BookShopPage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/101.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/102.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/103.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/104.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/105.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/106.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/107.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/108.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/IconTexto_WebDev_009.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS10.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/TS9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/billboard.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/bookcover.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/bottomlogo.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/botton_gif_025.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/buy.bmp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/buy.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/buy1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/buy2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/buy3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/buybutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/car_step8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/cart.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/check_use.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/dayongxiaohua.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/finalbutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/fish.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/gif53_029.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/gwc_buy.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/gwc_jx.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/hottitle.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/index.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/info.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/infobg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/loginbg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/loginbutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/loginline.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/logintitle.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/logo.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/menubg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/miniicon.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/miniicon2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/miniicon3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/ngcn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/oneplant.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/orderbutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/productlist.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/productlist.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/serchbutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/signup.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/signupbutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/success.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/think.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/htmlAndCssTest/bookShopImg/travelbook.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/JdCss/JdContent.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/JdCss/JdFooter.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/JdCss/JdHeader.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/JdPage/JdContent.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/JdPage/JdFooter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/JdPage/JdHeader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/JdPage/JdStatic.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/fonts/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/fonts/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/fonts/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/fonts/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/computer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/erweima.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/ico_footer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/ico_service.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/pic1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/pic2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/sprite-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jd/img/top.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/01复习.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/01定时器轮播图复习.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/01绑定函数复习.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/04案例图片跟着鼠标飞终极版本.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/05案例拖拽的对话框.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/06正则表达式.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/10滚动条案例.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/12案例验证用户输入的是不是中文名字.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/16client系列.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/17案例图片跟着鼠标飞.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/RotationChart1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/RotationChart1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/RotationChart2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/RotationChart2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/ShutdownAnimation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/ShutdownAnimation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/accordion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/accordion.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest5.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest6.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest8.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest8.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest9.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apiTest9.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apitest5.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apitest7.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/apitest7.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/arrayTest.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/createUl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/fixedTop.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/fixedTop.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/flyCloud.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/flyCloud.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/image/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/image/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/image/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/image/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/image/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/b.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/next_1(1).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/prev.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/prev_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/slidepic9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/images/t.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/0f000PC3L7v5WMl_8bcCX6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/1-small.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/111.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/12.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/13.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/14.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/15.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/2-small.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/222.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/3-small.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/333.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/4-small.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/456.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/5-small.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/bg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/bgs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/bird.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/birdfly.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/boduo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/bpic_1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/cangjingkong.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/cloud.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/content.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/content_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/default.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/lb1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/lb2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/lb3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/lb4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/lb5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/left.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/libai.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/linzhiling.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/liuyan.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/main.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/mm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/nav.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/noavatar_small.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/normal1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/placeholder.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/right.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/rss.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/search.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/small1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/taobao.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/tianshi.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/tip1_c.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/tip1_f.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/tip1_h.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/top.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/xiaoniao.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/卡卡西.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/大蛇丸.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/img/百度换肤.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/moreEvent.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/offset.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/offset复习.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/whirligig.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/whirligig.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/jsApi/zishia.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/App/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/Home/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/Login/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/Login/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/AsyncComponent.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/SHA1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/connectRoute.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/date.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/request.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/url.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx/MobxHoc.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx/MobxTestMain.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/promise/PromiseTest1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/promise/getJsonData.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/promise/print.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/banner.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/computer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/erweima.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/ico_footer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/ico_service.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/icon1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/logo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/pic1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/pic2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/ser.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/sprite-search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/img/top.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/studyCss/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/studyCss/Css.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/studyCss/CssMenu2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/studyCss/css2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/studyCss/css_1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyDucoment/studyCss/text1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/TodoApp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/constants.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/filter/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/filter/reducer/actionTypes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/filter/reducer/actions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/filter/reducer/filterReducer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/filter/views/filters.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/filter/views/link.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/filter/views/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/reducer/actionTypes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/reducer/actions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/reducer/todosReducer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/selector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/addTodo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todoItem.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todoList.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todoitem.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todos.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/workComponentTest/BatchImport.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/workComponentTest/OneDetailShow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/workComponentTest/test1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/workComponentTest/test3.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/workComponentTest/tests1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/workComponentTest/tests2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/workComponentTest/tests2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/configs/CombinReducers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/configs/IndexView.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/configs/MainStore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/configs/Router.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/configs/SharedReducer.js" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="IndexView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/configs/IndexView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getJsonData.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/promise/getJsonData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="4" column="879" lean-forward="false" selection-start-line="4" selection-start-column="879" selection-end-line="4" selection-end-column="879" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdFooter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/jd/JdPage/JdFooter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Router.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/configs/Router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="220" column="69" lean-forward="false" selection-start-line="220" selection-start-column="58" selection-end-line="220" selection-end-column="69" />
+              <folding>
+                <element signature="e#47#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/App/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/Home/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/Login/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1584">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connectRoute.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/mobx-project/utils/connectRoute.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1607">
+              <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="url.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/mobx-project/utils/url.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>importf</find>
+      <find>ref</find>
+      <find>onChange</find>
+      <find>file</find>
+      <find>fixData</find>
+      <find>excelContent</find>
+      <find>convertJson</find>
+      <find>_.</find>
+      <find>Login</find>
+      <find>combineReducers</find>
+      <find>initialState</find>
+      <find>ac</find>
+      <find>EditableContext</find>
+      <find>submit</find>
+      <find>MathStudy</find>
+      <find>unctionTest1</find>
+      <find>custom</find>
+      <find>Scrollbars</find>
+      <find>rightExtra</find>
+      <find>style</find>
+      <find>children</find>
+      <find>rightExtraClass</find>
+      <find>extra</find>
+      <find>bread-right-extra</find>
+      <find>autoScroll</find>
+      <find>breadcrumb-box</find>
+      <find>print-preview</find>
+      <find>styles</find>
+      <find>PromiseTest1</find>
+      <find>mobxProject</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\react_study\src\components\ant_designs\studyReact\Layout</dir>
+      <dir>D:\react_study\src\components\ant_designs\studyReact\Form</dir>
+      <dir>D:\react_study\src\components\ant_designs\studyReact\Table</dir>
+      <dir>D:\react_study\src\components\ant_designs\studyReact</dir>
+      <dir>D:\react_study\src\components\ant_designs</dir>
+      <dir>D:\react_study\src\components\jsApi</dir>
+      <dir>D:\react_study\src\components</dir>
+      <dir>D:\react_study\src</dir>
+      <dir>D:\react_study\src\components\studyRedux\todo\todos</dir>
+      <dir>D:\react_study</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/jsApi/apiTest2.js" />
+        <option value="$PROJECT_DIR$/src/components/jsApi/apiTest2.css" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/CssMenu2.js" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/test1.js" />
+        <option value="$PROJECT_DIR$/src/components/advancedJs/SnakeProject.js" />
+        <option value="$PROJECT_DIR$/src/components/jsApi/06正则表达式.html" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/tests2.css" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/tests2.js" />
+        <option value="$PROJECT_DIR$/src/components/htmlAndCssTest/BookShopPage.js" />
+        <option value="$PROJECT_DIR$/src/components/htmlAndCssTest/BookShopPage.css" />
+        <option value="$PROJECT_DIR$/src/components/jd/JdCss/JdHeader.css" />
+        <option value="$PROJECT_DIR$/src/components/jd/JdPage/JdHeader.js" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/test3.js" />
+        <option value="$PROJECT_DIR$/src/components/algorithm/ListTest.js" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/xlsx.full.min.js" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/BatchImport.js" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/tests1.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/configs/MainStore.js" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/todos/actionTypes.js" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/todos/actions.js" />
+        <option value="$PROJECT_DIR$/src/configs/CombinReducers.js" />
+        <option value="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableAddRow.js" />
+        <option value="$PROJECT_DIR$/src/components/ant_designs/studyReact/Table/tableEditAble.js" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/TodoApp.js" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/todos/reducer/actionTypes.js" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/todos/selector.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todoitem.css" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todoItem.js" />
+        <option value="$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todoList.js" />
+        <option value="$PROJECT_DIR$/src/components/common/commonUtil.js" />
+        <option value="$PROJECT_DIR$/src/components/es6Study/ArrayStudy.js" />
+        <option value="$PROJECT_DIR$/src/components/es6Study/MathStudy.js" />
+        <option value="$PROJECT_DIR$/src/components/workComponentTest/OneDetailShow.js" />
+        <option value="$PROJECT_DIR$/src/components/advanceFunctionStudy/test1.js" />
+        <option value="$PROJECT_DIR$/src/components/advanceFunctionStudy/AdcanceFunctionTest1.js" />
+        <option value="$PROJECT_DIR$/src/components/advanceFunctionStudy/AdvanceFunctionTest1.js" />
+        <option value="$PROJECT_DIR$/src/commons/components/breadcrumb/HeadBreadcrumb.js" />
+        <option value="$PROJECT_DIR$/src/components/commonsAssemblyStudy/TestBreadcrumb.js" />
+        <option value="$PROJECT_DIR$/src/components/mobx/MobxHoc.js" />
+        <option value="$PROJECT_DIR$/src/components/mobx/MobxTestMain.js" />
+        <option value="$PROJECT_DIR$/src/components/promise/getJsonData.js" />
+        <option value="$PROJECT_DIR$/src/components/promise/print.css" />
+        <option value="$PROJECT_DIR$/src/components/promise/PromiseTest1.js" />
+        <option value="$PROJECT_DIR$/src/configs/Router.js" />
+        <option value="$PROJECT_DIR$/src/configs/IndexView.js" />
+        <option value="$PROJECT_DIR$/src/components/mobx-project/containers/App/index.js" />
+        <option value="$PROJECT_DIR$/src/components/mobx-project/componets/App/index.js" />
+        <option value="$PROJECT_DIR$/src/components/mobx-project/componets/Home/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="402" />
+    <option name="y" value="49" />
+    <option name="width" value="1568" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ES6CheckImport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx-project" type="462c0819:PsiDirectoryNode" />
+              <item name="componets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx-project" type="462c0819:PsiDirectoryNode" />
+              <item name="componets" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx-project" type="462c0819:PsiDirectoryNode" />
+              <item name="componets" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx-project" type="462c0819:PsiDirectoryNode" />
+              <item name="componets" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="mobx-project" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="configs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="r&#9;ACTION&#9;ActivateRunToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\react_study\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="D:\react_study\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\react_study\src\components\mobx-project\componets" />
+      <recent name="E:\react_study\src\components\mobx-project" />
+      <recent name="D:\react_study\src\components\studyRedux\todo\filter\reducer" />
+      <recent name="D:\react_study\src\components\studyRedux\todo\todos\reducer" />
+      <recent name="D:\react_study\src\components\jsApi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\react_study\src\components\mobx-project\componets" />
+      <recent name="E:\react_study\src\components\mobx-project\containers" />
+      <recent name="E:\react_study\src\components\mobx-project" />
+      <recent name="D:\react_study\src\components\promise" />
+      <recent name="D:\react_study\src\commons\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="normalBreadCrumb.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/src/components/ant_designs/studyReact/breadCrumb/normalBreadCrumb.js" working-dir="$PROJECT_DIR$/src/components/ant_designs/studyReact/breadCrumb" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.normalBreadCrumb.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a8bda32-80dc-42b0-b629-8b8f64a4d38c" name="Default" comment="" />
+      <created>1543542702600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543542702600</updated>
+      <workItem from="1543542704641" duration="12892000" />
+      <workItem from="1544058057356" duration="3793000" />
+      <workItem from="1544065656585" duration="2952000" />
+      <workItem from="1544264222210" duration="4122000" />
+      <workItem from="1544358637490" duration="7418000" />
+      <workItem from="1544528020787" duration="2465000" />
+      <workItem from="1544578530959" duration="121000" />
+      <workItem from="1544672947355" duration="8632000" />
+      <workItem from="1544751291887" duration="4807000" />
+      <workItem from="1544849103081" duration="20879000" />
+      <workItem from="1544931614565" duration="15047000" />
+      <workItem from="1545009802717" duration="1315000" />
+      <workItem from="1545096396795" duration="13403000" />
+      <workItem from="1545182570233" duration="20476000" />
+      <workItem from="1545269697534" duration="13414000" />
+      <workItem from="1545356025686" duration="20689000" />
+      <workItem from="1545442441462" duration="24072000" />
+      <workItem from="1545614945362" duration="14746000" />
+      <workItem from="1545701476617" duration="2462000" />
+      <workItem from="1545788189526" duration="9379000" />
+      <workItem from="1545875312701" duration="13276000" />
+      <workItem from="1545961035102" duration="598000" />
+      <workItem from="1546046817505" duration="1704000" />
+      <workItem from="1546135812509" duration="599000" />
+      <workItem from="1546222040398" duration="1766000" />
+      <workItem from="1546393737534" duration="599000" />
+      <workItem from="1546479404094" duration="599000" />
+      <workItem from="1546660058654" duration="1470000" />
+      <workItem from="1546761241674" duration="599000" />
+      <workItem from="1546825305398" duration="375000" />
+      <workItem from="1546911305354" duration="3769000" />
+      <workItem from="1546997172966" duration="2633000" />
+      <workItem from="1547538547674" duration="8529000" />
+      <workItem from="1547605295675" duration="11467000" />
+      <workItem from="1547713633215" duration="9986000" />
+      <workItem from="1547776633316" duration="10638000" />
+      <workItem from="1547972961064" duration="773000" />
+      <workItem from="1548145735254" duration="639000" />
+      <workItem from="1548332346079" duration="1834000" />
+      <workItem from="1548638032630" duration="332000" />
+      <workItem from="1548837746694" duration="1223000" />
+      <workItem from="1549949265429" duration="1198000" />
+      <workItem from="1550115922688" duration="712000" />
+      <workItem from="1550194872080" duration="3135000" />
+      <workItem from="1550281335866" duration="33529000" />
+      <workItem from="1550453993061" duration="15292000" />
+      <workItem from="1550541063721" duration="14247000" />
+      <workItem from="1550627042613" duration="24941000" />
+      <workItem from="1550712785818" duration="7136000" />
+      <workItem from="1550799217724" duration="7174000" />
+      <workItem from="1550885381198" duration="10100000" />
+      <workItem from="1551015082019" duration="599000" />
+      <workItem from="1551058623303" duration="627000" />
+      <workItem from="1551144647173" duration="4816000" />
+      <workItem from="1551232879320" duration="599000" />
+      <workItem from="1551317707906" duration="1198000" />
+      <workItem from="1551404138799" duration="599000" />
+      <workItem from="1551490093528" duration="1863000" />
+      <workItem from="1551663445093" duration="6774000" />
+      <workItem from="1551749501834" duration="599000" />
+      <workItem from="1551835734227" duration="1281000" />
+      <workItem from="1551922118502" duration="598000" />
+      <workItem from="1552008504232" duration="599000" />
+      <workItem from="1552536188884" duration="9087000" />
+      <workItem from="1552613164493" duration="599000" />
+      <workItem from="1552728125785" duration="1839000" />
+      <workItem from="1552881241317" duration="599000" />
+      <workItem from="1552959274731" duration="5816000" />
+      <workItem from="1553138050405" duration="94000" />
+      <workItem from="1553412462069" duration="12349000" />
+      <workItem from="1553475859524" duration="372000" />
+      <workItem from="1553503006976" duration="87000" />
+      <workItem from="1553503332983" duration="38000" />
+      <workItem from="1553503424381" duration="270000" />
+      <workItem from="1553503880057" duration="8180000" />
+      <workItem from="1553562186689" duration="4506000" />
+      <workItem from="1553648799915" duration="1547000" />
+      <workItem from="1553735020107" duration="2844000" />
+      <workItem from="1553821608006" duration="1221000" />
+      <workItem from="1553917425798" duration="1826000" />
+      <workItem from="1553945479165" duration="639000" />
+      <workItem from="1554080780280" duration="2142000" />
+      <workItem from="1554166777751" duration="2226000" />
+      <workItem from="1554253221171" duration="1714000" />
+      <workItem from="1554339405912" duration="914000" />
+      <workItem from="1554954060743" duration="4493000" />
+      <workItem from="1555029033724" duration="5562000" />
+      <workItem from="1555117918775" duration="21276000" />
+      <workItem from="1555287927633" duration="599000" />
+      <workItem from="1555375502421" duration="4091000" />
+      <workItem from="1555380690614" duration="7392000" />
+      <workItem from="1555565314132" duration="637000" />
+      <workItem from="1555633122761" duration="1954000" />
+      <workItem from="1555893374590" duration="2187000" />
+      <workItem from="1555979032699" duration="1555000" />
+      <workItem from="1556065506587" duration="2371000" />
+      <workItem from="1556151896406" duration="2347000" />
+      <workItem from="1556238827289" duration="2420000" />
+      <workItem from="1556323929425" duration="1802000" />
+      <workItem from="1556410667924" duration="2886000" />
+      <workItem from="1556496765274" duration="1816000" />
+      <workItem from="1556583161287" duration="1861000" />
+      <workItem from="1557016089509" duration="2555000" />
+      <workItem from="1557101878639" duration="2334000" />
+      <workItem from="1557188403455" duration="1194000" />
+      <workItem from="1557274316360" duration="1198000" />
+      <workItem from="1557361040001" duration="3079000" />
+      <workItem from="1557447341422" duration="3232000" />
+      <workItem from="1557638360593" duration="30000" />
+      <workItem from="1557707093413" duration="1207000" />
+      <workItem from="1557793270524" duration="599000" />
+      <workItem from="1557879562990" duration="599000" />
+      <workItem from="1557966336947" duration="598000" />
+      <workItem from="1558052418630" duration="601000" />
+      <workItem from="1558141865321" duration="599000" />
+      <workItem from="1558311581472" duration="599000" />
+      <workItem from="1558397896634" duration="599000" />
+      <workItem from="1558484477077" duration="599000" />
+      <workItem from="1558657769453" duration="451000" />
+      <workItem from="1558743575138" duration="599000" />
+      <workItem from="1558916479812" duration="1198000" />
+      <workItem from="1559002833394" duration="598000" />
+      <workItem from="1559175638344" duration="599000" />
+      <workItem from="1559434813868" duration="437000" />
+      <workItem from="1559607822086" duration="598000" />
+      <workItem from="1559693817576" duration="598000" />
+      <workItem from="1560126178826" duration="598000" />
+      <workItem from="1560212504168" duration="599000" />
+      <workItem from="1560385640300" duration="1314000" />
+      <workItem from="1560557914326" duration="620000" />
+      <workItem from="1560731037411" duration="15320000" />
+      <workItem from="1560817030209" duration="598000" />
+      <workItem from="1560903553529" duration="4963000" />
+      <workItem from="1560990056835" duration="597000" />
+      <workItem from="1561077410470" duration="1802000" />
+      <workItem from="1561335561806" duration="9465000" />
+      <workItem from="1561373617617" duration="224000" />
+      <workItem from="1561422044985" duration="599000" />
+      <workItem from="1561508249690" duration="1223000" />
+      <workItem from="1561595116547" duration="598000" />
+      <workItem from="1561617011818" duration="252000" />
+      <workItem from="1561681403161" duration="606000" />
+      <workItem from="1561940251621" duration="599000" />
+      <workItem from="1562113231656" duration="599000" />
+      <workItem from="1562199438696" duration="598000" />
+      <workItem from="1562718135282" duration="599000" />
+      <workItem from="1562804472155" duration="2602000" />
+      <workItem from="1562890908250" duration="636000" />
+      <workItem from="1563150289826" duration="28000" />
+      <workItem from="1563248308095" duration="150000" />
+      <workItem from="1563322776736" duration="594000" />
+      <workItem from="1563426824953" duration="1173000" />
+      <workItem from="1563495898876" duration="696000" />
+      <workItem from="1563512758279" duration="1605000" />
+      <workItem from="1563582188866" duration="1686000" />
+      <workItem from="1563599341553" duration="609000" />
+      <workItem from="1563755297462" duration="3558000" />
+      <workItem from="1563841489152" duration="642000" />
+      <workItem from="1563858515300" duration="1677000" />
+      <workItem from="1563927743549" duration="133000" />
+      <workItem from="1564014150298" duration="7585000" />
+      <workItem from="1564100659816" duration="2601000" />
+      <workItem from="1564359829072" duration="598000" />
+      <workItem from="1564446155902" duration="599000" />
+      <workItem from="1564532731851" duration="655000" />
+      <workItem from="1564618685872" duration="749000" />
+      <workItem from="1564704633364" duration="5503000" />
+      <workItem from="1564791578746" duration="1394000" />
+      <workItem from="1564817901584" duration="609000" />
+      <workItem from="1564965176697" duration="1286000" />
+      <workItem from="1565050821321" duration="594000" />
+      <workItem from="1565137306528" duration="2527000" />
+      <workItem from="1565224170201" duration="1805000" />
+      <workItem from="1565741972045" duration="597000" />
+      <workItem from="1565828262862" duration="601000" />
+      <workItem from="1566001999325" duration="1285000" />
+      <workItem from="1566433392523" duration="596000" />
+      <workItem from="1566519632038" duration="597000" />
+      <workItem from="1566718909955" duration="60000" />
+      <workItem from="1566779183671" duration="3000" />
+      <workItem from="1566865367664" duration="597000" />
+      <workItem from="1566951556202" duration="598000" />
+      <workItem from="1567210671857" duration="2402000" />
+      <workItem from="1567470450892" duration="598000" />
+      <workItem from="1567556737694" duration="30000" />
+      <workItem from="1567642980031" duration="1224000" />
+      <workItem from="1567816223320" duration="598000" />
+      <workItem from="1568011746294" duration="1475000" />
+      <workItem from="1568075292227" duration="598000" />
+      <workItem from="1568161302637" duration="596000" />
+      <workItem from="1568680073070" duration="812000" />
+      <workItem from="1568766344374" duration="597000" />
+      <workItem from="1568939177414" duration="596000" />
+      <workItem from="1569025282312" duration="11000" />
+      <workItem from="1569198217417" duration="31187000" />
+      <workItem from="1569284586064" duration="2370000" />
+      <workItem from="1569371081510" duration="141000" />
+      <workItem from="1569457549077" duration="597000" />
+      <workItem from="1569630088856" duration="597000" />
+      <workItem from="1569716671367" duration="1196000" />
+      <workItem from="1570494620149" duration="652000" />
+      <workItem from="1570580985745" duration="196000" />
+      <workItem from="1570667159313" duration="596000" />
+      <workItem from="1570752938920" duration="1276000" />
+      <workItem from="1570839883128" duration="1196000" />
+      <workItem from="1571012375128" duration="596000" />
+      <workItem from="1571186905437" duration="612000" />
+      <workItem from="1571271425913" duration="1199000" />
+      <workItem from="1571358523231" duration="594000" />
+      <workItem from="1574943937021" duration="1210000" />
+      <workItem from="1574987139629" duration="1046000" />
+      <workItem from="1575073654646" duration="1882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="708647000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="402" y="49" width="1568" height="975" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43021768" sideWeight="0.14520368" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.49788582" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.49788582" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43021768" sideWeight="0.85479635" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3601896" sideWeight="0.5378107" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.49788582" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3601896" sideWeight="0.46218932" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25383395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/jsApi/apiTest1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/es6Study/MathStudy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/commonUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/todos/views/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/jsApi/apiTest4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/configs/MainStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/workComponentTest/OneDetailShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/workComponentTest/test1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="68" column="2" lean-forward="false" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/advancedJs/RandomSquare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/advancedJs/SnakeProject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ant_designs/antDesignList/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/classMateRoom/Login/LoginMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/configs/CombinReducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/algorithm/ListTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/components/breadcrumb/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commons/components/breadcrumb/HeadBreadcrumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/es6Study/ArrayStudy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/htmlAndCssTest/BookShopPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/commonsAssemblyStudy/TestBreadcrumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/advanceFunctionStudy/AdvanceFunctionTest1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/htmlAndCssTest/BookShopPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mobx/MobxHoc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/filter/reducer/filterReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/todos/reducer/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/todos/reducer/todosReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/todos/reducer/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/TodoApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/filter/reducer/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/filter/views/filters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/todos/selector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/704149236/FileRecv/Print/index.less" />
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/704149236/FileRecv/Print/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/studyRedux/todo/filter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/jd/JdPage/JdContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mobx/MobxTestMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Print/index.less" />
+    <entry file="file://$USER_HOME$/Desktop/Print/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/promise/index.less" />
+    <entry file="file://$PROJECT_DIR$/src/components/promise/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2112">
+          <caret line="64" column="18" lean-forward="false" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/promise/PromiseTest1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5214">
+          <caret line="161" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="271" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/promise/getJsonData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="4" column="879" lean-forward="false" selection-start-line="4" selection-start-column="879" selection-end-line="4" selection-end-column="879" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/jd/JdPage/JdFooter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mobx-project/utils/url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/configs/Router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="220" column="69" lean-forward="false" selection-start-line="220" selection-start-column="58" selection-end-line="220" selection-end-column="69" />
+          <folding>
+            <element signature="e#47#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/configs/IndexView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mobx-project/utils/connectRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/App/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/Login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1584">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/Home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1607">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

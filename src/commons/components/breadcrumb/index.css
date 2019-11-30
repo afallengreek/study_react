@@ -1,0 +1,50 @@
+/**
+ * @Author: CHEHSHUANG
+ * @Date: 2019/2/21
+ */
+/*面包屑页面头*/
+.page-breadcrumb{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #F0F2F5;
+}
+
+.page-breadcrumb .breadcrumb-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 24px;
+    box-sizing: border-box;
+    background: #fff;
+    margin: 0 1px;
+}
+.page-box-head{
+  height: calc(100% - 16px - 50px);
+}
+.page-box-no-head{
+  height: 100%;
+}
+.page-breadcrumb .page-box{
+    flex: 1;
+    margin: 8px 8px 8px 5px;
+    padding: 8px 24px;
+    overflow: auto;
+    background: #fff;
+    box-sizing: border-box;
+}
+.bread-right-extra{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bread-extra{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+}
+.page-breadcrumb.no-breadcrumb .page-box{
+  margin: 0
+}

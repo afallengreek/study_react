@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.apiTest ul {
+    list-style-type: none;
+}
+.apiTest7 .box {
+    width: 400px;
+    height: 300px;
+    border: 1px solid #ccc;
+    margin: 100px auto;
+    overflow: hidden;
+}
+.apiTest7 .hd {
+    height: 45px;
+}
+.apiTest7 .hd span {
+    display: inline-block;
+    width: 90px;
+    background-color: pink;
+    line-height: 45px;
+    margin-right: 8px;
+    text-align: center;
+    cursor: pointer;
+}
+.hd span.current {
+    background-color: purple;
+}
+
+.bd li {
+    height: 255px;
+    background-color: purple;
+    display: none;
+}
+.bd li.current {
+    display: block;
+}

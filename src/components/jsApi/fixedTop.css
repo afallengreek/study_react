@@ -1,0 +1,16 @@
+.fixedTop img {
+    vertical-align: top;
+}
+.fixedTop .main {
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 10px;
+}
+.fixedTop .nav{
+    float: left;
+}
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+}

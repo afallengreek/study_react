@@ -1,0 +1,20 @@
+.accordion ul {
+    list-style: none;
+}
+
+.accordion div {
+    width: 1150px;
+    height: 400px;
+    margin: 50px auto;
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+.accordion div li {
+    width: 240px;
+    height: 400px;
+    float: left;
+}
+.accordion div ul {
+    width: 1300px;
+}

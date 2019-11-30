@@ -1,0 +1,179 @@
+/*.clear{*/
+    /*clear:both;*/
+/*}*/
+
+.bookShopPage #top_left{
+    float:left;
+    width:300px;
+    /*width:300px;*/
+    /*float: left;*/
+}
+.bookShopPage #top_right{
+    float:right;
+    width:400px;
+    margin-top:15px;
+    font-size:13px;
+    /*width:400px;*/
+    /*float: right;*/
+    /*margin-top:15px;*/
+    /*font-size: 13px;*/
+}
+.bookShopPage #top_right img{
+    margin-bottom: 5px;
+    /*margin-bottom: 5px;*/
+}
+#top_right a{
+    text-decoration: none;
+    color: #61dafb;
+    /*text-decoration: none;*/
+    /*color:#06F;*/
+}
+.bookShopPage .clearfix:after{
+    content:"";
+    display:block;
+    visibility: hidden;
+    height:0;
+    clear:both;
+}
+.bookShopPage .clearfix{
+
+}
+.bookShopPage #top_right a:hover{
+    color:#909;
+}
+.bookShopPage #menu{
+    background-color:#1C3F09 ;
+    padding: 10px 0;
+    text-align: center;
+    border-top:5px solid  #82B211;
+    /*background-color: #1C3F09;*/
+    /*border-top:5px solid #82B211;*/
+    /*padding: 10px 0px;*/
+    /*text-align: center;*/
+}
+.bookShopPage #menu a{
+    margin:0 8px;
+    text-decoration: none;
+    color: #fff;
+    font-size:15px;
+    font-weight: bold;
+    /*margin: 0 8px;*/
+    /*color: #fff;*/
+    /*text-decoration: none;*/
+    /*font-weight: bold;*/
+    /*font-size: 15px;*/
+}
+.bookShopPage #menu a:hover{
+    color: #999;
+}
+.bookShopPage #menu .all{
+    color:yellow;
+}
+.bookShopPage #search{
+    text-align: right;
+    padding: 7px 0;
+    background-color: #B6B684 ;
+}
+.bookShopPage #search input[type="image"]{
+    margin-right:250px;
+    margin-bottom: -5px;
+}
+
+.bookShopPage #search input[type="text"]{
+    height:16px;
+    border:1px solid #999;
+    margin-right:8px;
+}
+.bookShopPage #search span{
+    margin-right: 8px;
+}
+
+/*!*-------------------------------------------------------*!*/
+
+.bookShopPage #content{
+    width:900px;
+    margin:8px auto 15px;/*auto div居中*/
+}
+
+.bookShopPage #content_top{
+    text-align: right;
+    font-size:13px;
+}
+.bookShopPage #content_bottom{
+    border: 1px solid #999;
+    background-color: #FCFDEF;
+    padding:10px 15px ;
+}
+.bookShopPage #content_bottom h1{
+    font-size:15px;
+    display: inline;
+}
+.bookShopPage #content_bottom span{
+    font-size:13px;
+    margin-left: 10px;
+}
+
+.bookShopPage #productlist_img img{
+    width: 100%;
+}
+.bookShopPage .book{
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding: 10px 0;
+}
+.bookShopPage .bookimg img{
+    width: 130px;
+    height:195px;
+}
+.bookShopPage #jumpPage{
+     width: 100%;
+     text-align: center;
+     margin:10px;
+}
+.bookShopPage #jumpPage a{
+    padding:2px 6px;
+    border: 1px solid #9AAFE5;
+    text-decoration: none;
+    color:#9AAFE5;
+    margin: 4px;
+}
+.bookShopPage #jumpPage a:hover{
+    color:#2B66A5;
+    border: 1px solid #2B6645;
+}
+.bookShopPage #jumpPage .current{
+    background-color: blue;
+}
+/*!*-------------------------------------------------------*!*/
+.bookShopPage #bottom{
+    background-color:#EFEEDC;
+    height:60px;
+    padding:10px 0;
+}
+.bookShopPage #bottom_left{
+    float:left;
+    width:400px;
+    margin-left: 200px;
+}
+.bookShopPage #bottom_right{
+    float:left;
+    width:500px;
+    line-height: 28px;
+}
+/*#bottom{*/
+    /*background-color: #EFEEDC;*/
+    /*height:60px;*/
+    /*padding:10px 0px;*/
+/*}*/
+
+/*#bottom_left{*/
+    /*width: 400px;*/
+    /*float: left;*/
+    /*margin-left: 200px;*/
+/*}*/
+/*#bottom_right{*/
+    /*width: 500px;*/
+    /*float: left;*/
+    /*line-height:28px;!*行高*!*/
+/*}*/

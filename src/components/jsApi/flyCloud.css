@@ -1,0 +1,35 @@
+.flyCloud ul {
+    list-style: none
+}
+
+.bodyCssFlyCloud {
+    /*background-color: #333;*/
+}
+.flyCloud .nav {
+    width: 800px;
+    height: 42px;
+    margin: 100px auto;
+    background: url(./img/rss.png) right center no-repeat;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+}
+.flyCloud .nav li {
+    width: 83px;
+    height: 42px;
+    text-align: center;
+    line-height: 42px;
+    float: left;
+    cursor: pointer;
+}
+.flyCloud  .nav span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 83px;
+    height: 42px;
+    background: url(./img/cloud.gif) no-repeat;
+}
+.flyCloud ul {
+    position: relative;
+}

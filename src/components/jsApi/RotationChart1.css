@@ -1,0 +1,50 @@
+.Chart1 .box ul {
+    list-style: none
+}
+.Chart1 .box img {
+    vertical-align: top
+}
+.Chart1 .box{
+    width: 742px;
+    height: 466px;
+    margin: 100px auto;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+.Chart1 .box .inner {
+    width: 730px;
+    height: 454px;
+    background-color: pink;
+    overflow: hidden;
+    position: relative;
+}
+.Chart1 .inner ul {
+    width: 1000%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.Chart1 .inner li {
+    float: left;
+}
+.Chart1 .square {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.Chart1 .square span {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 16px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.Chart1 .square span.current {
+    background-color: orangered;
+    height: 17px;
+    line-height: 16px;
+    color: #fff;
+}

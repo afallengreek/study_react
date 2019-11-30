@@ -1,0 +1,38 @@
+* {
+    /*font-family: "微软雅黑";*/
+    font-family: "microsoft yahei", Arial;
+    /*font-family: Arial;*/
+}
+
+
+.css1-h1 {
+    /*font-weight: normal;  让粗体不加粗思密达*/
+    font-weight: 400; /*让粗体不加粗思密达  400 == normal 建议用数值*/
+    text-align: center; /*让h1 里面的文字水平居中*/
+}
+
+.subTitle {
+    text-align: center;
+}
+
+.nub {
+    color: #f00;
+    font-weight: 400; /*不加粗*/
+}
+
+.css1-em {
+    color: skyblue;
+    font-style: normal; /*让斜体不倾斜*/
+}
+
+.css1-span {
+    /*color: #ff0000;*/
+    color: #FDD000;
+}
+
+.css1-p {
+    font-size: 16px; /*千万别忘了带px 单位*/
+    line-height: 28px; /*  行高  行与行之间的距离*/
+    text-indent: 2em; /*段落首行缩进2个字  em  也是一个单位  1em 就是一个字的距离 */
+}
+

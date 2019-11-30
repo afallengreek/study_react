@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrap {
+    width: 300px;
+    margin: 100px auto 0;
+}
+.wrap table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #c0c0c0;
+    width: 300px;
+}
+.wrap th,td {
+     border: 1px solid #d0d0d0;
+     color: #404060;
+     padding: 10px;
+ }
+.wrap th {
+    background-color: #09c;
+    font: bold 16px "微软雅黑";
+    color: #fff;
+}
+
+.wrap td {
+    font: 14px "微软雅黑";
+}
+.wrap tbody tr {
+    background-color: #f0f0f0;
+}
+
+.wrap tbody tr:hover {
+    cursor: pointer;
+    background-color: #fafafa;
+}
