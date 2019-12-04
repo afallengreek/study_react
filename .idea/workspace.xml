@@ -2,98 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06a0c0c6-cd41-4041-b36e-8f8c4273a344" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/AdvancedSearch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/AuthorityButton/index.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/BulkImport.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/CheckAuth/index.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/DataSelectWithCode.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/DataSelectWithCodeOnlyShowName.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/DefaultPage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/Demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/DetailCard.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/exceptionPageType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/combined-selector.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/nodata-page.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/nullpage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/page403.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/page404.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/page500-special.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/img/page500.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/index.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ExceptionPage/index.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/Hoc/BaseHandleFnWrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ImportData.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/ModalForm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/OrderHead.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/PageHeader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/PageOperateHoc/api.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/PageOperateHoc/index.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/RangeDatePicker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/SearchTable.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/SearchTable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/SearchTableNew.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/SelectWithService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/SimpleTable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardDropdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardForm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardFormItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardFormItems.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardModal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardTable.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardTable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardTable.module.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/StandardTree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/TransferTable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/TreeSelectWithService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/UploadFile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/XLzEditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/barCode/BarCode.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/fileIcon.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/flow/AnyOneSelected.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/flow/Approve.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/flow/ApproveHistory.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/flow/StartFlow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/flow/UserChoose.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/flow/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/flow/service.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/rangeComponent/RangeInput.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/rangeComponent/RangeSelect.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/rangeComponent/mapComponentType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/toolbar/AdvanceSearchModal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/toolbar/ToolBar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/toolbar/demo/TbarDemo1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/toolbar/formConfigUtil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/toolbar/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/components/upload.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/utils/CommonUtils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/utils/FeatchUtils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/utils/FormRowWrapper.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/utils/FormRowWrapperNew.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/utils/SimpleFeatchUtils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/commons/utils/enumToRemarkUtil.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/api/authApi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/Login/service.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/stores/AppStore.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/stores/AuthStore.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/stores/MobxHoc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/stores/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/method.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/configs/DefaultConfig.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/setupProxy.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/config-overrides.js" afterPath="$PROJECT_DIR$/config-overrides.js" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/commons/components/breadcrumb/HeadBreadcrumb.js" afterPath="$PROJECT_DIR$/src/commons/components/breadcrumb/HeadBreadcrumb.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/classMateRoom/Login/LoginMain.js" afterPath="$PROJECT_DIR$/src/components/classMateRoom/Login/LoginMain.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/mobx-project/componets/App/index.js" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/App/index.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/mobx-project/componets/Home/index.js" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/Home/index.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/mobx-project/componets/Login/index.js" afterPath="$PROJECT_DIR$/src/components/mobx-project/componets/Login/index.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/mobx-project/componets/Login/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/mobx-project/utils/url.js" afterPath="$PROJECT_DIR$/src/components/mobx-project/utils/url.js" />
-      <change beforePath="$PROJECT_DIR$/src/configs/IndexView.js" afterPath="$PROJECT_DIR$/src/configs/IndexView.js" />
-      <change beforePath="$PROJECT_DIR$/src/configs/Router.js" afterPath="$PROJECT_DIR$/src/configs/Router.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -111,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/Login/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -157,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/mobx-project/stores/AppStore.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -167,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/mobx-project/utils/method.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -480,12 +389,20 @@
       <workItem from="1575246230765" duration="18803000" />
       <workItem from="1575332603236" duration="15501000" />
       <workItem from="1575371592984" duration="397000" />
-      <workItem from="1575419102403" duration="5013000" />
+      <workItem from="1575419102403" duration="5711000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化项目">
+      <created>1575428651133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575428651133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46174000" />
+    <option name="totallyTimeSpent" value="46872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -547,6 +464,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -866,7 +787,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/mobx-project/utils/method.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -874,7 +795,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/mobx-project/stores/AppStore.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -900,7 +821,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/mobx-project/componets/Login/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
