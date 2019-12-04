@@ -1,0 +1,16 @@
+.ant-card-head-title{
+    display: inline-block;
+    -webkit-flex: 1 1;
+    flex: 1 1;
+    padding: 8px 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.approve-bread-right-extra{
+    width: 100%
+}
+.flow-content .scrollbar-container.ps{
+    height: 100%;
+}

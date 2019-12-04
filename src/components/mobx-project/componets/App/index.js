@@ -11,11 +11,18 @@ import asyncComponent from "../../utils/AsyncComponent";
 //   getRequestQuantity
 // } from "../../redux/modules/app";
 import connectRoute from "../../utils/connectRoute";
+import {Spin,Progress} from "antd";
+import {inject, observer} from "mobx-react/index";
+import MobxHoc from "../../stores/MobxHoc";
 
 const AsyncHome = connectRoute(asyncComponent(() => import("../Home")));
 const AsyncLogin = connectRoute(asyncComponent(() => import("../Login")));
-
+@inject("appStore")
+@observer
 class App extends Component {
+  state={
+      percent:0,
+  };
   render() {
     // const { error, requestQuantity } = this.props;
     // const errorDialog = error && (
@@ -23,24 +30,28 @@ class App extends Component {
     //     {error.get("message") || error}
     //   </ModalDialog>
     // );
-
+    let {isLoading,percent} = this.props.appStore;
+    console.log('fdsfsdfasda',isLoading,percent);
     return (
-      <div>
-        <Router>
-          <Switch>
-            <Route exact path="/" component={AsyncHome} />
-            <Route path="/login" component={AsyncLogin} />
-            <Route path="/posts" component={AsyncHome} />
-          </Switch>
-        </Router>
-        {/*{errorDialog}*/}
-        {/*{requestQuantity > 0 && <Loading />}*/}
-      </div>
+            <Spin
+                tip={<Progress type="circle" percent={percent} />}
+                spinning={isLoading}
+                wrapperClassName={"spin"}
+            >
+                  <div>
+                        <Route exact path="/mobxProject" component={AsyncHome} />
+                        <Route path="/mobxProject/login" component={AsyncLogin} />
+                        <Route path="/mobxProject/posts" component={AsyncHome} />
+                    {/*{errorDialog}*/}
+                    {/*{requestQuantity > 0 && <Loading />}*/}
+                  </div>
+            </Spin>
     );
   }
 }
 
 const mapStateToProps = (state, props) => {
+  return {}
   // return {
   //   error: getError(state),
   //   requestQuantity: getRequestQuantity(state)
@@ -48,9 +59,12 @@ const mapStateToProps = (state, props) => {
 };
 
 const mapDispatchToProps = dispatch => {
+    return {}
   // return {
   //   ...bindActionCreators(appActions, dispatch)
   // };
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+App =  connect(mapStateToProps, mapDispatchToProps)(App);
+export default App = MobxHoc(App)
+

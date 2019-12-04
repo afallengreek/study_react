@@ -27,12 +27,12 @@ function encodeFilter(filter) {
 }
 
 export default {
-  login: () => "/user/login",
-  getPostList: () => `/post?filter=${encodeFilter(postListFilter)}`,
-  getPostById: id => `/post?filter=${encodeFilter(postByIdFilter(id))}`,
-  createPost: () => "/post",
-  updatePost: id => `/post/${id}`,
+  login: () => "/bbc/user/login",
+  getPostList: () => `/bbc/post?filter=${encodeFilter(postListFilter)}`,
+  getPostById: id => `/bbc/post?filter=${encodeFilter(postByIdFilter(id))}`,
+  createPost: () => "/bbc/post",
+  updatePost: id => `/bbc/post/${id}`,
   getCommentList: postId =>
-    `/comment?filter=${encodeFilter(commentListFilter(postId))}`,
-  createComment: () => "/comment"
+    `/bbc/comment?filter=${encodeFilter(commentListFilter(postId))}`,
+  createComment: () => "/bbc/comment"
 };

@@ -1,0 +1,109 @@
+.defaultSimpleTable {
+  :global {
+    .ant-table-body {
+      .ps__thumb-y {
+        right: 0;
+      }
+
+      .ps__thumb-x {
+        bottom: 0;
+      }
+      .ps__rail-x:hover > .ps__thumb-x,
+      .ps__rail-x:focus > .ps__thumb-x,
+      .ps__rail-x.ps--clicking .ps__thumb-x {
+        height: 14px;
+      }
+
+      .ps__rail-y:hover > .ps__thumb-y,
+      .ps__rail-y:focus > .ps__thumb-y,
+      .ps__rail-y.ps--clicking .ps__thumb-y {
+        width: 14px;
+      }
+      &.ps--scrolling-x,
+      &.ps--active-x:hover {
+        .ant-table-tbody {
+          .ant-table-row:last-child {
+            .columns-size {
+              padding-top: 8px;
+              padding-bottom: 16px;
+            }
+          }
+        }
+      }
+      .ant-table-tbody {
+        .ant-table-row {
+          > td:first-child {
+            border-left: 3px solid transparent;
+          }
+          &.tr-selected {
+            >td{
+              background-color: #e6f7ff;
+            }
+            > td:first-child {
+              border-left-color: #1890ff;
+            }
+          }
+        }
+      }
+    }
+    .tableAlert {
+      margin-bottom: 16px;
+    }
+
+    .columns-size {
+      table-layout: fixed;
+      max-width: 80px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    .ant-table-thead > tr > th {
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .ant-table-selection-column {
+      padding: 8px 4px !important
+    }
+
+    .ant-table-row-selected {
+      background: #DCF8A8;
+    }
+
+    .number-cell {
+      text-align: right;
+    }
+
+    .date-cell {
+      text-align: center;
+    }
+
+    /*.ant-table-thead > tr:first-child > th{
+      background: rgba(39,174,255,.2);
+    }*/
+    .ant-table-tbody > tr:hover > td {
+      background: rgba(52, 204, 251, 0);
+    }
+
+    .react-resizable {
+      position: relative;
+    }
+
+    .react-resizable-handle {
+      position: absolute;
+      width: 10px;
+      height: 100%;
+      bottom: 0;
+      right: -5px;
+      cursor: col-resize;
+    }
+
+    .cell-text-short {
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+  }
+}
+

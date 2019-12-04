@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Route } from "react-router-dom";
-import Header from "../../components/Header";
+// import Header from "../../components/Header";
 import asyncComponent from "../../utils/AsyncComponent";
 import connectRoute from "../../utils/connectRoute";
 
@@ -14,9 +14,9 @@ class Home extends Component {
           /* render={props => <AsyncPost {...props} />*/
     return (
       <div>
-        <Header
-          location={location}
-        />
+        {/*<Header*/}
+          {/*location={location}*/}
+        {/*/>*/}
         <Route
           path={match.url}
           exact

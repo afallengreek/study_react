@@ -106,7 +106,7 @@ import AdvanceFunctionTest1 from "../components/advanceFunctionStudy/AdvanceFunc
 import TestBreadcrumb from "../components/commonsAssemblyStudy/TestBreadcrumb";
 import MobxTestMain from "../components/mobx/MobxTestMain";
 import PromiseTest1 from "../components/promise/PromiseTest1";
-import mobxProject from "../components/mobx-project/componets/App/index"
+import mobxProject from "../components/mobx-project/componets/App/index";
 
 
 

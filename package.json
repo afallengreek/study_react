@@ -3,13 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/plugin-proposal-decorators": "^7.7.4",
     "antd": "^3.16.6",
+    "axios": "^0.18.1",
     "babel-plugin-import": "^1.11.0",
     "babel-polyfill": "^6.26.0",
     "customize-cra": "^0.9.1",
     "enzyme": "^2.7.0",
-    "eslint-plugin-import": "^2.17.2",
     "immutable": "^3.8.2",
     "jquery": "1.12.4",
     "mobx": "3.5.1",
@@ -17,8 +16,11 @@
     "moment": "latest",
     "react": "^15.4.1",
     "react-addons-css-transition-group": "^15.4.1",
+    "perfect-scrollbar": "^1.4.0",
+    "react-perfect-scrollbar": "^1.5.0",
     "react-addons-perf": "^15.4.1",
     "react-addons-test-utils": "^15.4.2",
+    "react-app-rewire-less": "^2.1.2",
     "react-app-rewired": "^2.1.5",
     "react-custom-scrollbars": "4.2.1",
     "react-dom": "^15.4.1",
@@ -31,7 +33,11 @@
     "redux-immutable-state-invariant": "^1.2.4",
     "redux-thunk": "^2.3.0",
     "reselect": "^2.5.4",
-    "xlsx": "^0.14.2"
+    "xlsx": "^0.14.2",
+    "sei-utils": "^1.0.77",
+    "seid": "^1.0.285",
+    "react-resizable": "^1.7.5",
+    "http-proxy-middleware": "^0.19.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -49,20 +55,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.7.4",
     "moment": "latest"
-  },
-  "babel": {
-    "plugins": [
-      [
-        "@babel/plugin-proposal-decorators",
-        {
-          "legacy": true
-        }
-      ]
-    ],
-    "presets": [
-      "react-app"
-    ]
-  },
-  "proxy": "https://d.apicloud.com/mcm/api"
+  }
 }

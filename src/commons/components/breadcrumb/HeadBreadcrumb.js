@@ -31,7 +31,7 @@ class HeadBreadcrumb extends Component {
     const {style,className,children, pathData, rightExtra, rightExtraClass, extra, extraClass, autoScroll} = this.props;
     const hasHead = extra || pathData || rightExtra;
     return (
-      <div className={"page-breadcrumb "+(!pathData&&!rightExtra?"no-breadcrumb":"")} >
+      <div className={"page-breadcrumb "+(!pathData&&!rightExtra?"no-breadcrumb":"")} hidden={this.props.hidden}>
         {
           pathData || rightExtra ? (
             <div className={"breadcrumb-box"}>

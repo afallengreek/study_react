@@ -18,7 +18,6 @@ import ListTest from "../components/algorithm/ListTest";
 import TodoApp from "../components/studyRedux/todo/TodoApp";
 import TestBreadcrumb from "../components/commonsAssemblyStudy/TestBreadcrumb";
 import PromiseTest1 from "../components/promise/PromiseTest1";
-import mobxProject from "../components/mobx-project/componets/App";
 
 //随机颜色
 const color=["#FFD700"," #FF7F24"," #FF0000"," #FF6EB4","#EEEE00","#E6E6FA","#E066FF","#EE1289",

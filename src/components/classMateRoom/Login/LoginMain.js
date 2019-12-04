@@ -2,18 +2,17 @@ import {
     Form, Icon, Input, Button, Checkbox,
 } from 'antd';
 import React from "react";
+import {action} from "mobx";
 
 const FormItem = Form.Item;
 
 class LoginMain extends React.Component {
-    handleSubmit = (e) => {
+    handleSubmit = e => {
         e.preventDefault();
-        this.props.form.validateFields((err, values) => {
-            if (!err) {
-                console.log('Received values of form: ', values);
-            }
-        });
-    }
+        this.props.authStore
+            .login()
+            .then(action(() => (this.redirectToReferrer = true)));
+    };
     componentDidMount() {
         // To disabled submit button at the beginning.
         this.props.form.validateFields();
@@ -23,9 +22,7 @@ class LoginMain extends React.Component {
         console.log("我的数据",fieldsError);
         return Object.keys(fieldsError).some(key=>fieldsError[key])
     }
-    login=()=>{
-        this.props.history.goBack();
-    }
+
     goRegister=()=>{
         this.props.history.push("/formNormalRergister");
     }

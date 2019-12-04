@@ -1,0 +1,120 @@
+/**
+ * @Author: CHEHSHUANG
+ * @Date: 2018/9/26
+ */
+.tbar-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 100px;
+    background: #fff;
+    padding: 8px;
+    box-sizing: border-box;
+    border-bottom: none;
+}
+.tbar-box.has-border{
+   border: 1px solid #e8e8e8;
+}
+.tbar-box .tbar-btn{
+    margin-right: 8px;
+}
+.tbar-btn-box,.tbar-search-box{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.tbar-form{
+  height: 40px;
+}
+.tbar-form .ant-form-explain{
+  display: none;
+}
+.tbar-form .has-error:hover .ant-form-explain,
+.tbar-form .has-error:hover .ant-form-split{
+  display: block;
+  color: #f5222d;
+  position: relative;
+  padding: 0;
+  z-index: 10000;
+}
+.search-btn{
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.form-card-box{
+    padding: 0;
+    margin: 10px;
+    border: 1px solid #e8e8e8;
+    box-sizing: border-box;
+    width: 99%;
+    box-shadow: 0 0 3px 2px #f5f5f5;
+    border-radius: 2px;
+}
+.form-card-box .ant-card-head-wrapper div{
+    padding: 0;
+    height: 40px;
+    line-height: 40px;
+}
+.form-card-box .ant-card-head{
+    background: #f1f7fd;
+    height: 40px;
+    min-height: 40px;
+}
+.form-card-title-text {
+    color: red;
+    font-size: 20px;
+}
+.form-card-box:hover.form-card-box{
+    border: solid 1px rgb(80, 136, 255);
+    box-shadow: 0 0 3px 2px rgb(104, 185, 255);
+}
+.form-card-box .form-delete{
+    font-size: 15px;
+    cursor: pointer;
+}
+.form-card-box .item-collapse{
+    margin-left: 20px;
+    color: #4aa7ff;
+}
+.form-card-box #defaultSimpleTable .ant-table-wrapper{
+    height: auto!important;
+}
+.editable-cell {
+    position: relative;
+}
+
+.form-card-box .editable-cell-value-wrap {
+    height: 30px;
+    cursor: pointer;
+}
+.form-card-box .tr-size:hover{
+    background: #f1f7fd;
+}
+.form-card-box .tr-selected > td{
+    background: #fff !important;
+}
+.form-card-box .tr-size:hover .editable-cell-value-wrap {
+    border: 1px solid #d9d9d9;
+    height: 30px;
+    border-radius: 4px;
+    padding: 4px 11px;
+}
+.form-title-flex{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+.create-info > span{
+    margin-left: 20px;
+}
+.order-info>span {
+    font-size: 16px;
+    font-weight: bold
+}
+.draft-status{
+    color: #ff8520;
+    margin-left: 20px;
+}
+
+
