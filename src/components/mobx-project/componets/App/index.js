@@ -24,27 +24,16 @@ class App extends Component {
       percent:0,
   };
   render() {
-    // const { error, requestQuantity } = this.props;
-    // const errorDialog = error && (
-    //   <ModalDialog onClose={this.props.removeError}>
-    //     {error.get("message") || error}
-    //   </ModalDialog>
-    // );
     let {isLoading,percent} = this.props.appStore;
-    console.log('fdsfsdfasda',isLoading,percent);
     return (
             <Spin
                 tip={<Progress type="circle" percent={percent} />}
                 spinning={isLoading}
                 wrapperClassName={"spin"}
             >
-                  <div>
-                        <Route exact path="/mobxProject" component={AsyncHome} />
-                        <Route path="/mobxProject/login" component={AsyncLogin} />
-                        <Route path="/mobxProject/posts" component={AsyncHome} />
-                    {/*{errorDialog}*/}
-                    {/*{requestQuantity > 0 && <Loading />}*/}
-                  </div>
+                    <Route exact path="/mobxProject" component={AsyncHome} />
+                    <Route path="/mobxProject/login" component={AsyncLogin} />
+                    <Route path="/mobxProject/posts" component={AsyncHome} />
             </Spin>
     );
   }

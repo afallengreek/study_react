@@ -5,7 +5,13 @@
  */
 import AppStore from "./AppStore";
 import AuthStore from "./AuthStore";
+import PostsStore from "./PostsStore";
+import CommentsStore from "./CommentsStore";
+import UIStore from "./UIStore";
+
 import authApi from "../api/authApi";
+import postApi from "../api/postApi";
+import commentApi from "../api/commentApi";
 
 
 /// 创建实例对象，将*Api和*Store作为参数传入构造器使对应的store能使用它的属性和方法
@@ -13,15 +19,16 @@ const appStore = new AppStore();
 const authStore = new AuthStore(authApi, appStore);
 //
 
-///整合到一个stores对象中方便根目录const postsStore = new PostsStore(postApi, appStore, authStore);
-// const commentsStore = new CommentsStore(commentApi, appStore, authStore);
-// const uiStore = new UIStore();下的Provider的引入
+///整合到一个stores对象中方便根目录
+const postsStore = new PostsStore(postApi, appStore, authStore);
+const commentsStore = new CommentsStore(commentApi, appStore, authStore);
+const uiStore = new UIStore();//下的Provider的引入
 const stores = {
     appStore,
     authStore,
-    // postsStore,
-    // commentsStore,
-    // uiStore
+    postsStore,
+    commentsStore,
+    uiStore
 };
 /// 默认导出接口
 export default stores;

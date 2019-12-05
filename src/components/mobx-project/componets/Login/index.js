@@ -4,12 +4,15 @@ import {
 import React from "react";
 import {CheckboxItem, InputItem} from "../../../../commons/components/StandardFormItems";
 import {inject, observer} from "mobx-react";
-import {action} from "mobx";
+import {action, observable} from "mobx";
 import {listAllDataValue} from "./service";
+import {withRouter} from "react-router-dom";
+import {Redirect} from "react-router-dom";
 const FormItem = Form.Item;
 @inject("authStore")
 @observer
 class LoginMain extends React.Component {
+    @observable redirectToReferrer = false;
     commonProps = {
         form:this.props.form,
         span:24,
@@ -33,7 +36,7 @@ class LoginMain extends React.Component {
             if(!err) {
                 this.props.authStore
                     .login({...values})
-                    .then(action(() => (console.log("fdsafsdaf"))));
+                    .then(action(() => (this.redirectToReferrer=true)));
             }else{
                 message.error("请将登陆信息填写完整！")
             }
@@ -44,6 +47,11 @@ class LoginMain extends React.Component {
     }
 
     render() {
+        if (this.redirectToReferrer) {
+            const { from } = this.props.location.state || { from: { pathname: "/" } };
+            setTimeout(()=>window.location.reload(),100);
+            return <Redirect to={from} />;
+        }
         const { username, password ,remember} = this.props.authStore;
         const commonProps = this.commonProps;
         const shortCommonProps = this.shortCommonProps;
@@ -96,4 +104,4 @@ class LoginMain extends React.Component {
     }
 }
 
-export default LoginMain = Form.create()(LoginMain);
+export default LoginMain = Form.create()(withRouter(LoginMain));
