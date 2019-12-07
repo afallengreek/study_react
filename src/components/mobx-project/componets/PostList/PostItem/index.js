@@ -5,7 +5,7 @@ import "./style.css";
 import { List,Icon } from 'antd';
 const IconText = ({ type, text }) => (
     <span>
-    <Icon type={type} style={{ marginRight: 8 }} />
+    <Icon type={type} style={{ marginRight: 8 ,color:"red"}} />
         {text}
   </span>
 );

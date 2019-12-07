@@ -97,6 +97,7 @@ class LoginMain extends React.Component {
                             登陆
                         </Button>
                         <div style={{marginLeft:"10%"}}>没有账号请 <a href="" onClick={this.goRegister}>注册</a></div>
+                        <div style={{marginLeft:"10%"}}>(账号tom或jack)密码均为:123456</div>
                     </FormItem>
                 </Form>
             </div>

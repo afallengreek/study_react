@@ -21,7 +21,7 @@ class PostsView extends Component {
             dataSource={posts.slice()}
             footer={
                 <div>
-                    <b>ant design</b> footer part
+                    <b>发表自己的看法</b>
                 </div>
             }
             renderItem={item => (

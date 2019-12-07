@@ -3,6 +3,7 @@ import { inject, observer } from "mobx-react";
 import PostsView from "./PostsView";
 import PostEditor from "../Post/PostEditor";
 import "./style.css";
+import {Button} from "antd";
 
 @inject("postsStore", "authStore", "uiStore")
 @observer
@@ -36,7 +37,7 @@ class PostList extends Component {
         <div>
           <h2>帖子列表</h2>
           {authStore.userId ? (
-            <button onClick={this.handleNewPost}>发帖</button>
+            <Button size={"small"} type="primary" onClick={this.handleNewPost}>发帖</Button>
           ) : null}
         </div>
         {uiStore.addDialogOpen ? (
