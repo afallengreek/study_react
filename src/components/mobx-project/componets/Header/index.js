@@ -15,7 +15,7 @@ class Header extends Component {
                   border: '1px solid rgb(235, 237, 240)',
               }}
               backIcon={false}
-              title="首页"
+              title={<Link to="/mobxProject"  onClick={()=>{setTimeout(()=>window.location.reload(),100);}}>首页</Link>}
               subTitle="模仿BBC论坛"
               extra={ authStore.userId && authStore.userId.length > 0 ? (
                   <span className="user">

@@ -2,7 +2,8 @@ import React from "react";
 import { observer } from "mobx-react";
 import { getFormatDate } from "../../../utils/date";
 import "./style.css";
-import { List,Icon } from 'antd';
+import {List, Icon, Tooltip} from 'antd';
+import {Link} from "react-router-dom";
 const IconText = ({ type, text }) => (
     <span>
     <Icon type={type} style={{ marginRight: 8 ,color:"red"}} />
@@ -26,7 +27,9 @@ function PostItem(props) {
           }
       >
           <List.Item.Meta
-              title={<a>{post.title}</a>}
+              title={<Tooltip title={"点击查看详情"}>
+                  <Link to={`/mobxProject/posts/${post.id}`}
+                        onClick={()=>{setTimeout(()=>window.location.reload(),100);}}>{post.title}</Link></Tooltip>}
               description={ <span>更新时间：<span>{getFormatDate(post.updatedAt)}</span> </span>}
           />
           作者：{post.author.username}
